@@ -1,0 +1,8 @@
+prefix=/home/abhi/Desktop/ros_demo/devel
+
+Name: ros_demo
+Description: Description of ros_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/abhi/Desktop/ros_demo/devel/lib 
+Requires: 
